@@ -1,0 +1,15 @@
+C:\Users\Aidan\Github\BetterEventSample\KillAnnoucer\bin\Debug\net5.0\EventSample.exe
+C:\Users\Aidan\Github\BetterEventSample\KillAnnoucer\bin\Debug\net5.0\EventSample.deps.json
+C:\Users\Aidan\Github\BetterEventSample\KillAnnoucer\bin\Debug\net5.0\EventSample.runtimeconfig.json
+C:\Users\Aidan\Github\BetterEventSample\KillAnnoucer\bin\Debug\net5.0\EventSample.runtimeconfig.dev.json
+C:\Users\Aidan\Github\BetterEventSample\KillAnnoucer\bin\Debug\net5.0\EventSample.dll
+C:\Users\Aidan\Github\BetterEventSample\KillAnnoucer\bin\Debug\net5.0\ref\EventSample.dll
+C:\Users\Aidan\Github\BetterEventSample\KillAnnoucer\bin\Debug\net5.0\EventSample.pdb
+C:\Users\Aidan\Github\BetterEventSample\KillAnnoucer\obj\Debug\net5.0\EventSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aidan\Github\BetterEventSample\KillAnnoucer\obj\Debug\net5.0\EventSample.AssemblyInfoInputs.cache
+C:\Users\Aidan\Github\BetterEventSample\KillAnnoucer\obj\Debug\net5.0\EventSample.AssemblyInfo.cs
+C:\Users\Aidan\Github\BetterEventSample\KillAnnoucer\obj\Debug\net5.0\EventSample.csproj.CoreCompileInputs.cache
+C:\Users\Aidan\Github\BetterEventSample\KillAnnoucer\obj\Debug\net5.0\EventSample.dll
+C:\Users\Aidan\Github\BetterEventSample\KillAnnoucer\obj\Debug\net5.0\ref\EventSample.dll
+C:\Users\Aidan\Github\BetterEventSample\KillAnnoucer\obj\Debug\net5.0\EventSample.pdb
+C:\Users\Aidan\Github\BetterEventSample\KillAnnoucer\obj\Debug\net5.0\EventSample.genruntimeconfig.cache

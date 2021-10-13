@@ -1,0 +1,16 @@
+C:\Users\Aidan\source\repos\KillAnnoucer\KillAnnoucer\bin\Debug\net5.0\KillAnnoucer.exe
+C:\Users\Aidan\source\repos\KillAnnoucer\KillAnnoucer\bin\Debug\net5.0\KillAnnoucer.deps.json
+C:\Users\Aidan\source\repos\KillAnnoucer\KillAnnoucer\bin\Debug\net5.0\KillAnnoucer.runtimeconfig.json
+C:\Users\Aidan\source\repos\KillAnnoucer\KillAnnoucer\bin\Debug\net5.0\KillAnnoucer.runtimeconfig.dev.json
+C:\Users\Aidan\source\repos\KillAnnoucer\KillAnnoucer\bin\Debug\net5.0\KillAnnoucer.dll
+C:\Users\Aidan\source\repos\KillAnnoucer\KillAnnoucer\bin\Debug\net5.0\ref\KillAnnoucer.dll
+C:\Users\Aidan\source\repos\KillAnnoucer\KillAnnoucer\bin\Debug\net5.0\KillAnnoucer.pdb
+C:\Users\Aidan\source\repos\KillAnnoucer\KillAnnoucer\obj\Debug\net5.0\KillAnnoucer.csproj.AssemblyReference.cache
+C:\Users\Aidan\source\repos\KillAnnoucer\KillAnnoucer\obj\Debug\net5.0\KillAnnoucer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aidan\source\repos\KillAnnoucer\KillAnnoucer\obj\Debug\net5.0\KillAnnoucer.AssemblyInfoInputs.cache
+C:\Users\Aidan\source\repos\KillAnnoucer\KillAnnoucer\obj\Debug\net5.0\KillAnnoucer.AssemblyInfo.cs
+C:\Users\Aidan\source\repos\KillAnnoucer\KillAnnoucer\obj\Debug\net5.0\KillAnnoucer.csproj.CoreCompileInputs.cache
+C:\Users\Aidan\source\repos\KillAnnoucer\KillAnnoucer\obj\Debug\net5.0\KillAnnoucer.dll
+C:\Users\Aidan\source\repos\KillAnnoucer\KillAnnoucer\obj\Debug\net5.0\ref\KillAnnoucer.dll
+C:\Users\Aidan\source\repos\KillAnnoucer\KillAnnoucer\obj\Debug\net5.0\KillAnnoucer.pdb
+C:\Users\Aidan\source\repos\KillAnnoucer\KillAnnoucer\obj\Debug\net5.0\KillAnnoucer.genruntimeconfig.cache
